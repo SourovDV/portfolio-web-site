@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.header {
+    background-image: url(..//images/banner/banner1.png);
+    background-size: 100% 100%;
+    height: 400px;
+
+
+}
+
+.child {
+    width: 400px;
+    margin: 0px 0px 4px auto;
+    padding-top: 100px;
+    height: 400px;
+}
+
+.child .button {
+    background-color: tomato;
+    padding: 8px;
+    margin-left: 66%;
+    margin-top: 30px;
+
+}
+
+.picture {
+    background-color: gree;
+}
+
+.main {
+    display: flex;
+    margin: 120px 0px 0px 0px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background: linear-gradient(red, green, pink);
+    height: 700px;
+}
+
+.pictures {
+    padding: 150px
+}
+
+.main-point {
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-around;
+    text-align: center;
+
+}
+
+.aunty {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.always {
+    color: red;
+    width: 70%;
+    margin: 40px auto;
+    padding: 30px;
+    background-image: url("..//images/watch.png");
+    background-size:100% 100% ;
+    height: 200px;
+}
